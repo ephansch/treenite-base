@@ -1,3 +1,6 @@
+# work in progress
+Thanx for great work to the ublue-os team and fedora atomic desktops!
+
 # image-template
 
 # Purpose
